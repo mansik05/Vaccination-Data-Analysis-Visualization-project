@@ -1,0 +1,47 @@
+Core Measures
+
+Total Countries = DISTINCTCOUNT(coverage[code])
+
+Average Coverage % = AVERAGE(coverage[coverage])
+
+Total Doses = SUM(coverage[doses])
+
+Total Target Population = SUM(coverage[target_number])
+
+Coverage Gap to 95% =
+MAX(0, 95 - [Average Coverage %])
+
+Total Reported Cases = SUM(reported_cases[cases])
+
+Average Incidence Rate = AVERAGE(incidence_rate[incidence_rate])
+
+Vaccine Introductions =
+CALCULATE(
+    COUNTROWS(vaccine_introduction),
+    FILTER(
+        vaccine_introduction,
+        LOWER(vaccine_introduction[intro]) IN {"1","yes","y","true","introduced"}
+    )
+)
+
+Coverage Achievement % =
+DIVIDE([Average Coverage %], 95, 0)
+
+Year-over-Year Coverage =
+VAR CurrentYear = MAX(coverage[year])
+VAR CurrentValue = [Average Coverage %]
+VAR PreviousValue =
+    CALCULATE(
+        [Average Coverage %],
+        FILTER(ALL(coverage[year]), coverage[year] = CurrentYear - 1)
+    )
+RETURN CurrentValue - PreviousValue
+
+Recommended visuals:
+1. KPI cards: Average Coverage %, Total Doses, Total Reported Cases, Coverage Gap to 95%.
+2. Line chart: Year vs Average Coverage %.
+3. Filled map: Country vs Average Coverage %.
+4. Bar chart: Disease vs Total Reported Cases.
+5. Scatter: Average Coverage % vs Average Incidence Rate, Country as detail.
+6. Matrix: WHO Region x Vaccine Description x Introduction Year.
+7. Slicers: Year, Country, WHO Region, Antigen, Disease.
