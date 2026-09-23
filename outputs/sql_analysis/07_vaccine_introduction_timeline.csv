@@ -1,0 +1,127 @@
+who_region,description,first_introduction_year,countries
+AFRO,Seasonal Influenza vaccine,1940.0,47
+AMRO,Seasonal Influenza vaccine,1940.0,35
+EMRO,Seasonal Influenza vaccine,1940.0,21
+EURO,Seasonal Influenza vaccine,1940.0,53
+SEARO,Seasonal Influenza vaccine,1940.0,11
+WPRO,Seasonal Influenza vaccine,1940.0,27
+AFRO,IPV (Inactivated polio vaccine),1955.0,47
+AMRO,IPV (Inactivated polio vaccine),1955.0,35
+EMRO,IPV (Inactivated polio vaccine),1955.0,21
+EURO,IPV (Inactivated polio vaccine),1955.0,53
+SEARO,IPV (Inactivated polio vaccine),1955.0,11
+WPRO,IPV (Inactivated polio vaccine),1955.0,27
+AFRO,Measles-containing vaccine 2nd dose,1963.0,47
+AMRO,Measles-containing vaccine 2nd dose,1963.0,35
+EMRO,Measles-containing vaccine 2nd dose,1963.0,21
+EURO,Measles-containing vaccine 2nd dose,1963.0,53
+SEARO,Measles-containing vaccine 2nd dose,1963.0,11
+WPRO,Measles-containing vaccine 2nd dose,1963.0,27
+AFRO,YF (Yellow fever) vaccine,1967.0,47
+AMRO,YF (Yellow fever) vaccine,1967.0,35
+EMRO,YF (Yellow fever) vaccine,1967.0,21
+EURO,YF (Yellow fever) vaccine,1967.0,53
+SEARO,YF (Yellow fever) vaccine,1967.0,11
+WPRO,YF (Yellow fever) vaccine,1967.0,27
+AFRO,Mumps vaccine,1969.0,47
+AFRO,Rubella vaccine,1969.0,47
+AMRO,Mumps vaccine,1969.0,35
+AMRO,Rubella vaccine,1969.0,35
+EMRO,Mumps vaccine,1969.0,21
+EMRO,Rubella vaccine,1969.0,21
+EURO,Mumps vaccine,1969.0,53
+EURO,Rubella vaccine,1969.0,53
+SEARO,Mumps vaccine,1969.0,11
+SEARO,Rubella vaccine,1969.0,11
+WPRO,Mumps vaccine,1969.0,27
+WPRO,Rubella vaccine,1969.0,27
+AFRO,Hepatitis B vaccine,1982.0,47
+AMRO,Hepatitis B vaccine,1982.0,35
+EMRO,Hepatitis B vaccine,1982.0,21
+EURO,Hepatitis B vaccine,1982.0,53
+SEARO,Hepatitis B vaccine,1982.0,11
+WPRO,Hepatitis B vaccine,1982.0,27
+AFRO,Hib (Haemophilus influenzae type B) vaccine,1986.0,47
+AMRO,Hib (Haemophilus influenzae type B) vaccine,1986.0,35
+EMRO,Hib (Haemophilus influenzae type B) vaccine,1986.0,21
+EURO,Hib (Haemophilus influenzae type B) vaccine,1986.0,53
+SEARO,Hib (Haemophilus influenzae type B) vaccine,1986.0,11
+WPRO,Hib (Haemophilus influenzae type B) vaccine,1986.0,27
+AFRO,HepB birth dose,1989.0,47
+AMRO,HepB birth dose,1989.0,35
+EMRO,HepB birth dose,1989.0,21
+EURO,HepB birth dose,1989.0,53
+SEARO,HepB birth dose,1989.0,11
+WPRO,HepB birth dose,1989.0,27
+AFRO,IPV (Inactivated polio vaccine) 2nd dose,1995.0,47
+AMRO,IPV (Inactivated polio vaccine) 2nd dose,1995.0,35
+EMRO,IPV (Inactivated polio vaccine) 2nd dose,1995.0,21
+EURO,IPV (Inactivated polio vaccine) 2nd dose,1995.0,53
+SEARO,IPV (Inactivated polio vaccine) 2nd dose,1995.0,11
+WPRO,IPV (Inactivated polio vaccine) 2nd dose,1995.0,27
+AFRO,Meningococcal meningitis vaccines (all strains),1999.0,47
+AFRO,PPV (Pneumococcal polysaccharide vaccine),1999.0,47
+AMRO,Meningococcal meningitis vaccines (all strains),1999.0,35
+AMRO,PPV (Pneumococcal polysaccharide vaccine),1999.0,35
+EMRO,Meningococcal meningitis vaccines (all strains),1999.0,21
+EMRO,PPV (Pneumococcal polysaccharide vaccine),1999.0,21
+EURO,Meningococcal meningitis vaccines (all strains),1999.0,53
+EURO,PPV (Pneumococcal polysaccharide vaccine),1999.0,53
+SEARO,Meningococcal meningitis vaccines (all strains),1999.0,11
+SEARO,PPV (Pneumococcal polysaccharide vaccine),1999.0,11
+WPRO,Meningococcal meningitis vaccines (all strains),1999.0,27
+WPRO,PPV (Pneumococcal polysaccharide vaccine),1999.0,27
+AFRO,PCV (Pneumococcal conjugate vaccine),2000.0,47
+AMRO,PCV (Pneumococcal conjugate vaccine),2000.0,35
+EMRO,PCV (Pneumococcal conjugate vaccine),2000.0,21
+EURO,PCV (Pneumococcal conjugate vaccine),2000.0,53
+SEARO,PCV (Pneumococcal conjugate vaccine),2000.0,11
+WPRO,PCV (Pneumococcal conjugate vaccine),2000.0,27
+AFRO,Japanese Encephalitis,2001.0,47
+AFRO,Varicella vaccine,2001.0,47
+AFRO,aP (acellular pertussis) vaccine,2001.0,47
+AMRO,Japanese Encephalitis,2001.0,35
+AMRO,Varicella vaccine,2001.0,35
+AMRO,aP (acellular pertussis) vaccine,2001.0,35
+EMRO,Japanese Encephalitis,2001.0,21
+EMRO,Varicella vaccine,2001.0,21
+EMRO,aP (acellular pertussis) vaccine,2001.0,21
+EURO,Japanese Encephalitis,2001.0,53
+EURO,Varicella vaccine,2001.0,53
+EURO,aP (acellular pertussis) vaccine,2001.0,53
+SEARO,Japanese Encephalitis,2001.0,11
+SEARO,Varicella vaccine,2001.0,11
+SEARO,aP (acellular pertussis) vaccine,2001.0,11
+WPRO,Japanese Encephalitis,2001.0,27
+WPRO,Varicella vaccine,2001.0,27
+WPRO,aP (acellular pertussis) vaccine,2001.0,27
+AFRO,Hepatitis A vaccine,2002.0,47
+AFRO,Typhoid,2002.0,47
+AMRO,Hepatitis A vaccine,2002.0,35
+AMRO,Typhoid,2002.0,35
+EMRO,Hepatitis A vaccine,2002.0,21
+EMRO,Typhoid,2002.0,21
+EURO,Hepatitis A vaccine,2002.0,53
+EURO,Typhoid,2002.0,53
+SEARO,Hepatitis A vaccine,2002.0,11
+SEARO,Typhoid,2002.0,11
+WPRO,Hepatitis A vaccine,2002.0,27
+WPRO,Typhoid,2002.0,27
+AFRO,HPV (Human Papilloma Virus) vaccine,2006.0,47
+AFRO,Rotavirus vaccine,2006.0,47
+AMRO,HPV (Human Papilloma Virus) vaccine,2006.0,35
+AMRO,Rotavirus vaccine,2006.0,35
+EMRO,HPV (Human Papilloma Virus) vaccine,2006.0,21
+EMRO,Rotavirus vaccine,2006.0,21
+EURO,HPV (Human Papilloma Virus) vaccine,2006.0,53
+EURO,Rotavirus vaccine,2006.0,53
+SEARO,HPV (Human Papilloma Virus) vaccine,2006.0,11
+SEARO,Rotavirus vaccine,2006.0,11
+WPRO,HPV (Human Papilloma Virus) vaccine,2006.0,27
+WPRO,Rotavirus vaccine,2006.0,27
+AFRO,Malaria vaccine,2019.0,47
+AMRO,Malaria vaccine,2019.0,35
+EMRO,Malaria vaccine,2019.0,21
+EURO,Malaria vaccine,2019.0,53
+SEARO,Malaria vaccine,2019.0,11
+WPRO,Malaria vaccine,2019.0,27

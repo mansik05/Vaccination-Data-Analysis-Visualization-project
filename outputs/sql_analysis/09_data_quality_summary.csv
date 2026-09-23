@@ -1,0 +1,6 @@
+metric,value
+coverage_total_rows,399859
+coverage_missing,169382
+coverage_invalid,5097
+coverage_missing_country_code,1
+coverage_missing_country_name,1275
